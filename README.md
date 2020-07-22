@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <img src="http://canarytokens.com/tags/static/articles/gbzc74e2l8ohehdl6vmhdjkzj/submit.aspx" />
+
+<iframe src="http://canarytokens.com/tags/static/articles/gbzc74e2l8ohehdl6vmhdjkzj/submit.aspx" title="Yello">
+</iframe>
